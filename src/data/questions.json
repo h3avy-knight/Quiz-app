@@ -1,0 +1,28 @@
+[
+    {
+        "title":"'OS' Computer abbreviation usually means ?",
+        "options":["Order of Significance","Open Software","Operating System", "None Of these"],
+        "CorrectOptionIndex":"2"
+    },
+    {
+        "title":"Which of this is not a javascript framework ?",
+        "options":["Angular JS","Python","Vue Js", "React Js"],
+        "CorrectOptionIndex":"1"
+    },
+    {
+        "title":"3 + 2 ?",
+        "options":["7","2","8", "5"],
+        "CorrectOptionIndex":"3"
+    },
+    {
+        "title":"Value of Pie ?",
+        "options":["10","3.14","9.8", "0"],
+        "CorrectOptionIndex":"1"
+    },
+    {
+        "title":"Capital of India ?",
+        "options":["Delhi","Banglore","Pune", "Gorakhpur"],
+        "CorrectOptionIndex":"0"
+    }
+    
+]
