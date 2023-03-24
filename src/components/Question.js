@@ -29,9 +29,9 @@ const Question = ({ question, totalQuestions, currentQuestion, setAnswer }) => {
     <div className="question">
       <div className="progress-bar" ref={progressBar}></div>
       <div className="question-count">
-        <b>{currentQuestion}</b>
+        <b>{currentQuestion + " "}</b>
         of
-        <b>{totalQuestions}</b>
+        <b>{" " + totalQuestions}</b>
       </div>
       <div className="main">
         <div className="title">
